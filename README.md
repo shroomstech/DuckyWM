@@ -9,4 +9,5 @@ nothing the WM keylayouts aren't set yet but you can Mod/Change the Source Code 
 
 <img src="images/image.png" alt="duckywm preview"></img>
 
-Current State: Broken (some duckywm apps give out errors)
+Current State: Stable Beta
+IMPORTANT: DO NOT USE IT AS A DEFAULT WM! ITS NOT READY FOR THAT (EXCEPT YOU MOD IT TO sry caps lock)
