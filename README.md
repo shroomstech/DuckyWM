@@ -8,3 +8,5 @@ nothing the WM keylayouts aren't set yet but you can Mod/Change the Source Code 
 
 
 <img src="images/image.png" alt="duckywm preview"></img>
+
+Current State: Broken (some duckywm apps give out errors)
