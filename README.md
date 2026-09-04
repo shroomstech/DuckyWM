@@ -1,2 +1,7 @@
 # DuckyWM
-the first Lightweight WM made by Duck.ai also known as DuckDuckGo AI
+a Lightweight WM made by Duck.ai also known as DuckDuckGo AI
+
+This project was Fully Vibecoded made by DuckAI
+
+what you can do with it:
+nothing the WM keylayouts aren't set yet but you can Mod/Change the Source Code how ever you want
