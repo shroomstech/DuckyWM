@@ -1,0 +1,14 @@
+xauth: file /home/shroomx32/.serverauth.3805 does not exist
+xauth: file /home/shroomx32/.Xauthority does not exist (this comes twice)
+
+xinit unable to run server "/usr/bin/X": No such file or directory
+Use the -- option, or make sure that /usr/bin is in your path and that "/usr/bin/X" is a programm or a link to the right type of server for your display. possible server name include:
+Xorg  Common X server for most displays
+Xvfb
+Xfake
+Xephyr
+Xvnc
+
+xinit: giving up
+xinit: unable to connect to X server: Connection refused
+xinit: server error
