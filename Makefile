@@ -6,8 +6,6 @@ GTK_LIBS = $$(pkg-config --cflags --libs gtk+-3.0)
 
 all:
 	$(CC) $(CFLAGS) -o duckywm src/main.c $(X11_LIBS)
-	$(CC) $(CFLAGS) -o ducky-files src/ducky-files.c $(GTK_LIBS)
-	$(CC) $(CFLAGS) -o ducky-settings src/ducky-settings.c $(GTK_LIBS)
 
 clean:
 	rm -f duckywm ducky-files ducky-settings
